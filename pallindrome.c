@@ -14,6 +14,6 @@ n=n/10;
 if(temp==sum)    
 printf("palindrome number ");    
 else    
-printf("not palindrome");   
+printf("notaaa palindrome");   
 return 0;  
 }   
